@@ -1,0 +1,1 @@
+# Configuration Passerelle - Cloud
