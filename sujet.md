@@ -1,10 +1,10 @@
-# Projet IoT – CPE Lyon – 2018-2019
+# Projet IoT – CPE Lyon – 2019-2020
 
-*Auteurs: N. Lebedev, A. Massouri, O. Carrillo*
+*Auteurs: N. Lebedev, O. Carrillo*
 
 ## 1. Introduction
 
-Dans ce projet nous nous proposons de créer un prototype d'un système IoT pour un domaine d'application* (cf Annexe) choisi en s'appuyant sur les plateformes matérielles et logicielles existantes. Nous suivrons la démarche d'intégration pour mettre l'accent sur les thèmes propres à la spécialité R&T : techniques de transmission et de traitement des données, radiocommunications, protocoles MAC, ordonnancement, partage des ressources, QoS, routage.
+Dans ce projet nous vous proposons de créer un prototype d'un système IoT pour un domaine d'application* (cf Annexe) choisi en s'appuyant sur les plateformes matérielles et logicielles existantes. Nous suivrons la démarche d'intégration pour mettre l'accent sur les thèmes propres à la spécialité R&T : techniques de transmission et de traitement des données, radiocommunications, protocoles MAC, ordonnancement, partage des ressources, QoS, routage.
 
 Les trois principales composantes d'un système IoT sont :
   + Capteurs – émetteurs radio
@@ -45,7 +45,7 @@ Chaque équipe restituera son travail sous forme de partage de compétences à l
 
 Les supports pour la restitution choisie devront être mis en ligne sur le git du projet créé pour votre équipe.
 Pour créer le dépôt git pour votre équipe veillez suivre le lien suivant:
-https://classroom.github.com/g/T-2u-FDX
+https://classroom.github.com/g/GDXzrN_Y
 
 ## Annexe. Domaines d'application :
 
