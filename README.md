@@ -21,7 +21,8 @@ Le sujet initial est dans le fichier [sujet.md](sujet.md)
 Vous devez décrire ici les fonctionnalités et applications de la maquette que vous avez décidé d'implementer.
 
 ### Matériel
-| :---         | :---         |
+| Nombre         | Description        |
+| ---         | :---         |
 |         |         |
 |         |         |
 |         |         |
