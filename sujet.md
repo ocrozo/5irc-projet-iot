@@ -1,6 +1,6 @@
-# Projet IoT – CPE Lyon – 2019-2020
+# Projet IoT – CPE Lyon – 2020-2021
 
-*Auteurs: N. Lebedev, O. Carrillo*
+*Auteurs: N. Lebedev, O. Carrillo, A. Massouri*
 
 ## 1. Introduction
 
@@ -13,8 +13,8 @@ Les trois principales composantes d'un système IoT sont :
 
 Pour remplir chacune de ces fonctionnalités, on utilisera les plateformes de base couplées à des cartes mezzanine et des “clicks”:
   + Les plateformes de base sont les systèmes embarqués de type micro-ordinateurs disponibles dans le commerce : Arduino, Genuino, Beaglebone.
-  + Les cartes mezzanine que l'on peut connecter aux passerelles via les socles intégrés, les “shield” de différents format et standard
-  + Les “click” sont les capteurs et les cartes de communication radio, - transmetteurs.
+  + Les cartes mezzanine que l'on peut connecter aux passerelles via les socles intégrés sont des “shield” de différents format et standard
+  + Les “click” sont les capteurs et les cartes de communication radio-transmetteurs.
 
 Le choix du matériel mis à disposition est dicté par la relative facilité de son intégration. L'accès aux fonctionnalités de ces plateformes se fait via les APIs qui ne nécessitent pas de programmation embarquée bas niveau en C ou microC ou encore Assembleur, et les bibliothèques haut niveau en Python, C, C++ avec les exemples d'utilisation suffisent pour prototyper rapidement.
 
@@ -32,16 +32,22 @@ Les objectifs du projet s'articulent autour des points suivants :
 
 Chaque groupe doit réaliser cette châine complète : capteur – passerelle – cloud.
 Chaque équipe disposera du matériel suivant :
-  + Capteur :
-    - 1  Arduino Genuino Mega
+  + Objets :
+    - 1-2  Arduino Genuino Mega, Uno ou Nano
     - N clicks capteurs
-    - 1 click module sans fil
-  + Passerelle BBB – BeagleBone Black, Source: livre “Exploring Beaglebone”.
-  http://exploringbeaglebone.com/
+    - 2 click module sans fils
+  + Passerelle LPWAN
+    - 1 carte LoRa STM32
+  + Passerelle Cloud 
+    - (optionnel) BBB – BeagleBone Black, Source: livre “Exploring Beaglebone”, http://exploringbeaglebone.com/
+    - (optionnel) Raspberry Pi
+    - (optionnel) VM Serveur
+  + Cloud
+    - Comptes cloud créer par vous
 
 ## 4. Evaluation
 
-Chaque équipe restituera son travail sous forme de partage de compétences à l'aide de sa maquette via un tutoriel, une démo, voire un mini-TP pour l'ensemble de la promo et le jury.
+Chaque équipe restituera son travail sous forme de *partage de compétences* à l'aide de sa maquette via un tutoriel, une démo, voire un mini-TP pour l'ensemble de la promo et le jury.
 
 Les supports pour la restitution choisie devront être mis en ligne sur le git du projet créé pour votre équipe.
 Pour créer le dépôt git pour votre équipe veillez suivre le lien suivant:
