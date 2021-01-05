@@ -50,8 +50,7 @@ Chaque équipe disposera du matériel suivant :
 Chaque équipe restituera son travail sous forme de *partage de compétences* à l'aide de sa maquette via un tutoriel, une démo, voire un mini-TP pour l'ensemble de la promo et le jury.
 
 Les supports pour la restitution choisie devront être mis en ligne sur le git du projet créé pour votre équipe.
-Pour créer le dépôt git pour votre équipe veillez suivre le lien suivant:
-https://classroom.github.com/g/GDXzrN_Y
+
 
 ## Annexe. Domaines d'application :
 
