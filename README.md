@@ -34,7 +34,7 @@ Vous devez décrire ici les fonctionnalités et applications de la maquette que 
 
 ### Suivi journalier
 
-**Mardi 05/01/2021** :
+**Vendredi 12/01/2024** :
 - 
 - 
 - 
@@ -42,7 +42,7 @@ Vous devez décrire ici les fonctionnalités et applications de la maquette que 
 - 
 - 
 
-**Mercredi 06/01/2021** :
+**Lundi 22/01/2024** :
 - 
 - 
 - 
@@ -50,7 +50,7 @@ Vous devez décrire ici les fonctionnalités et applications de la maquette que 
 - 
 - 
 
-**Jeudi 07/01/2021** :
+**Mardi 23/01/2024** :
 - 
 - 
 - 
@@ -58,7 +58,14 @@ Vous devez décrire ici les fonctionnalités et applications de la maquette que 
 - 
 - 
 
-**Vendredi 08/01/2021** :
+**Mercredi 24/01/2024** :
+- 
+- 
+- 
+- 
+- 
+**Jeudi 25/01/2024** :
+- 
 - 
 - 
 - 
