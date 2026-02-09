@@ -1,4 +1,4 @@
-# Configuration Arduino 
+# Configuration ESP32 
 
 ## Clicks capteurs
 
