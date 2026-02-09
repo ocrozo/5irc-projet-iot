@@ -1,4 +1,4 @@
-# Projet Mob - IoT
+# Projet IoT
 
 Dans ce repertoire vous allez enregistrez les démarches que votre équipe suit
 pour mettre en place une chaîne IoT fonctionnel.
@@ -17,7 +17,6 @@ Notre équipe projet est composée par :
 
 ## Description du Projet
 
-Le sujet initial est dans le fichier [sujet.md](sujet.md)
 Vous devez décrire ici les fonctionnalités et applications de la maquette que vous avez décidé d'implementer.
 
 ### Matériel
@@ -34,7 +33,7 @@ Vous devez décrire ici les fonctionnalités et applications de la maquette que 
 
 ### Suivi journalier
 
-**Vendredi 12/01/2024** :
+**Lundi 02/02/2026** :
 - 
 - 
 - 
@@ -42,7 +41,7 @@ Vous devez décrire ici les fonctionnalités et applications de la maquette que 
 - 
 - 
 
-**Lundi 22/01/2024** :
+**Lundi 09/02/2026** :
 - 
 - 
 - 
@@ -50,7 +49,7 @@ Vous devez décrire ici les fonctionnalités et applications de la maquette que 
 - 
 - 
 
-**Mardi 23/01/2024** :
+**Vendredi 13/02/2026** :
 - 
 - 
 - 
@@ -58,13 +57,13 @@ Vous devez décrire ici les fonctionnalités et applications de la maquette que 
 - 
 - 
 
-**Mercredi 24/01/2024** :
+**Lundi 02/03/2026** :
 - 
 - 
 - 
 - 
 - 
-**Jeudi 25/01/2024** :
+**Mardi 03/03/2026** :
 - 
 - 
 - 
